@@ -11,7 +11,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Copilot](https://copilot.microsoft.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Midjourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -22,7 +22,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Sinfonia da Magia Natalina                                                        |
-| conteúdo | Um Ebook sobre o Natal e tantos símbolos em volta desta festa que mexe com o emocional das pessoas. Como existe tantos símbolos, neste Ebook foram explorados 7 deles. |
+| conteúdo | Um Ebook sobre o Natal e tantos símbolos em volta desta festa mexendo com o emocional das pessoas. Como existem muitos símbolos, neste Ebook foram explorados 7 deles. |
 
 
 Midjourney：
